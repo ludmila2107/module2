@@ -13,6 +13,6 @@ for el in numbers: # создаем еще один цикл, проходим �
     if el not in not_primes: # если элемент в numbers отсутствует в not_primes, добавляем в primes
         primes.append(el)
 
-
+#uuuu
 print('Простые числа: ', primes)
 print('Непростые числа: ', not_primes)
